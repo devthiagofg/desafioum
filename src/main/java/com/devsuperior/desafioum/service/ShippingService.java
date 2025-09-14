@@ -1,4 +1,4 @@
-package com.devsuperior.desafioum;
+package com.devsuperior.desafioum.service;
 
 import com.devsuperior.desafioum.entites.Order;
 import org.springframework.stereotype.Service;
